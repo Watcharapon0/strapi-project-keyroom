@@ -21,9 +21,6 @@
     "occupied": {
       "type": "boolean"
     },
-    "beds": {
-      "type": "integer"
-    },
     "guest": {
       "model": "guests"
     }
